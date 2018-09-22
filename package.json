@@ -1,0 +1,19 @@
+{
+  "name": "shiken-service",
+  "version": "0.1.0",
+  "description": "Project Shiken Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Not Available\""
+  },
+  "keywords": [
+    "shiken"
+  ],
+  "author": "wenn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.2.17"
+  }
+}
